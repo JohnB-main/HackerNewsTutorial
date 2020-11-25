@@ -1,3 +1,32 @@
+# Hacker News - Following tutorial result
+
+This project is the product of following a react tutuorial for creating a hacker news react app.
+An assingment in CSC 496.
+
+### Outline
+* ### Purpose
+* ### Technologies
+* ### Operation
+
+
+
+## Purpose
+Learn more about react 
+
+
+## Technologies
+React
+eslint
+
+
+## Setup
+Create a react app, and import this repository
+open the console and run the desired command from the options below (normally "npm start")
+
+
+
+# Below is the default readme that comes from react applicatoins
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
